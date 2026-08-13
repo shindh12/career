@@ -81,7 +81,7 @@ _Service Backend Engineer / Project Lead_
 
 ---
 
-### 5. 돈 버는 서베이 서비스 개발 (2024.04 ~ 현재)
+### 5. 돈 버는 서베이 서비스 개발 (2024.04 ~ 2025.10)
 
 > **Role**: Backend Engineer / TL  
 > **Goal**: 카카오뱅크의 대규모 트래픽을 활용한 서베이 제공 플랫폼 구축 및 신규 수익원 창출  
